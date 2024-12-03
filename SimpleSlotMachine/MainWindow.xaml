@@ -1,0 +1,28 @@
+﻿<Window x:Class="SimpleSlotMachine.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleSlotMachine"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="490" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height=".28*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock  x:Name="_display1" Height="230" Width="150"  HorizontalAlignment="Left" FontSize="200" TextAlignment="Center" Margin="10,10,10,10"/>
+        <TextBlock x:Name="_display2" Height="230" Width="150" HorizontalAlignment="Left"  FontSize="200" TextAlignment="Center" Margin="170,10,10,10"/>
+        <TextBlock x:Name="_display3" Height="230" Width="150" HorizontalAlignment="Left"  FontSize="200" TextAlignment="Center"  Margin="330,10,10,10"/>
+        
+        <TextBlock x:Name="_jackpot" Grid.Row="1" Height="40"  TextAlignment="Center" FontSize="28"/>
+        
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <Button x:Name="_pull" Margin="5" Width="120" Content="Pull" FontSize="30" Click="_pull_Click"/>
+            <Button x:Name="_reset" Margin="5" Width="120" Content="Reset" FontSize="30"/>
+            <TextBlock x:Name="_score" Margin="5" Width="200"  TextAlignment="Center" VerticalAlignment="Center" FontWeight="DemiBold"  FontSize="20" />
+        </StackPanel>
+    </Grid>
+</Window>

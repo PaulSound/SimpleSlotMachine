@@ -1,0 +1,61 @@
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.cache
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.lref
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.exe
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.deps.json
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.runtimeconfig.json
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.g.resources
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfo.cs
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\refint\SimpleSlotMachine.dll
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.genruntimeconfig.cache
+C:\Users\user\Desktop\TestProjects\SimpleSlotMachine\SimpleSlotMachine\obj\Debug\net7.0-windows\ref\SimpleSlotMachine.dll
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.exe
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.deps.json
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.runtimeconfig.json
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.cache
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.lref
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.g.resources
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfo.cs
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\refint\SimpleSlotMachine.dll
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.genruntimeconfig.cache
+C:\Users\user\Desktop\MyPracticeProjects\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\ref\SimpleSlotMachine.dll
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.exe
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.deps.json
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.runtimeconfig.json
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\bin\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.cache
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine_MarkupCompile.lref
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.g.resources
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.AssemblyInfo.cs
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.dll
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\refint\SimpleSlotMachine.dll
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.pdb
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\SimpleSlotMachine.genruntimeconfig.cache
+C:\Users\user\Desktop\ToGit\SimpleSlotMachine(НЕ ДОДЕЛАНО)\SimpleSlotMachine\obj\Debug\net7.0-windows\ref\SimpleSlotMachine.dll
